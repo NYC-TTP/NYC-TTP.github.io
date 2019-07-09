@@ -12,8 +12,7 @@ To help candidates improve their approach to problem-solving and ability to demo
 
 Here are some resources to explore before the workshop:
 
-* Practice Problems!
-  * https://github.com/NYC-TTP/algorithms_and_data_structures/blob/master/README.md
+* <a href="https://github.com/NYC-TTP/algorithms_and_data_structures/blob/master/README.md">Practice Problems (with Solutions)
 
 
 # Workshop Materials
