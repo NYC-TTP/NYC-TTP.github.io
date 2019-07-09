@@ -1,6 +1,6 @@
 # Description
 
-This workshop is designed for candidates who have taken the TTP assessment to  help them imporve their skills on the topic of Data Structures associated with specific questions in the first stage of the assessment, improving their pass rates and candidacies for entry-level tech jobs.
+This workshop is designed for candidates who have taken the TTP assessment to help them improve their skills on the topic of Data Structures, improving pass rates and candidacies for entry-level tech jobs.
 
 # Goal
 
