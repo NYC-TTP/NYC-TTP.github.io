@@ -1,10 +1,10 @@
 # Description
 
-Here is the desrciption
+This workshop is designed for candidates who have taken the TTP assessment to  help them imporve their skills on the topic of Data Structures associated with specific questions in the first stage of the assessment, improving their pass rates and candidacies for entry-level tech jobs.
 
-# Goals
+# Goal
 
-Here are the goals
+To help candidates improve their approach to problem-solving and ability to demonstrate the Computer Science skills they already have.
 
 # Preparation
 
