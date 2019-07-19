@@ -18,6 +18,8 @@ Here are some resources to explore before the workshop:
   
 * <a href="https://www.edx.org/course/introduction-to-data-structures">A free archived "Intro to Data Structures" MOOC course</a>
 
+* <a href="https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60">Tips on how to improve your Data Structures and Algorithm Skills (article)
+
 
 # Workshop Materials
 
