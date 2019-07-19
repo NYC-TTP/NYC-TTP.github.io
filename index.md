@@ -28,7 +28,7 @@ Here are some resources that will be used during the workshop.
 
 # Survey
 
-* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete the survey at this link prior to attending the workshop.</a>
+* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete the survey at this link prior to attending the workshop.</a>  (This was also emailed to everyone on Friday 7/19)
 
 
 # What's Next?
