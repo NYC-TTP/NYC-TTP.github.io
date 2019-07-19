@@ -21,12 +21,12 @@ Here are some resources to explore before the workshop:
 
 # Workshop Materials
 
-Here are some resources that will be used during the workshop
+Here are some resources that will be used during the workshop.
 
 
 # Surveys
 
-Please complete the survey at this link prior to attending the workshop.
+*  <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete the survey at this link prior to attending the workshop.</a>
 
 
 # What Next?
