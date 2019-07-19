@@ -13,16 +13,20 @@ To help candidates improve their approach to problem-solving and ability to demo
 Here are some resources to explore before the workshop:
 
 * <a href="https://github.com/NYC-TTP/algorithms_and_data_structures/blob/master/README.md">Practice Problems (with Solutions)
+  
+* <a href="https://github.com/NYC-TTP/Data-Structures-Algorithms/blob/master/README.md">More Practice Problems (with Solutions)
+  
+* <a href="https://www.edx.org/course/introduction-to-data-structures">A free archived "Intro to Data Structures" MOOC course</a>
 
 
 # Workshop Materials
 
-Here are some resources that will beused during the workshop
+Here are some resources that will be used during the workshop
 
 
-# Survey
+# Surveys
 
-Please compelte the survey at this link.
+Please complete the survey at this link prior to attending the workshop.
 
 
 # What Next?
