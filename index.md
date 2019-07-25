@@ -28,9 +28,15 @@ Here are some resources that will be used during the workshop.
 
 # Survey
 
-* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete the survey at this link prior to attending the workshop.</a>  (This was also emailed to everyone on Friday 7/19)
+* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete this survey BEFORE attending the workshop.</a>  (This was also emailed to you on Friday 7/19)
+
+* <a href="https://docs.google.com/forms/d/1tVhnk9vuQn8HwcDaqzNcy3GLReqO7lpybZdPMfuZmrI/edit?usp=sharing">Please complete this survey AFTER attending the workshop.</a>
 
 
 # What's Next?
 
-Here are next steps as well as more resources to practice on further.
+* A link for you to re-take the TTP Assessment will be emailed to you on <b>Tuesday 7/30</b> and will be <b>due by Sunday 8/4 (11:59pm)</b>.
+
+* <a href="https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc">How to Ace the Coding Interview, Every Time </a>
+
+* <a href="https://www.pluralsight.com/blog/career/5-ways-practice-coding-interview">More Ways to Practice for Coding Interview Questions</a>
