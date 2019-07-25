@@ -23,7 +23,7 @@ Here are some resources to explore before the workshop:
 
 # Workshop Materials
 
-Here are some resources that will be used during the workshop.
+* <a href="https://drive.google.com/file/d/1WFqf5Gq5T7S_e-vKp_Nkzdy9MDanYYqf/view?usp=sharing">Here are the slides from Day One of the workshop.</a>
 
 
 # Survey
