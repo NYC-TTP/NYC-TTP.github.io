@@ -55,3 +55,8 @@ Here are some resources to explore before the workshop:
 8. https://app.codility.com/test/CL-NN76FN-M55
 9. https://app.codility.com/test/CL-GX9END-YTG
 10. https://app.codility.com/test/CL-T6VDMA-XR6
+11. https://app.codility.com/test/CL-P7H54X-SV6
+12. https://app.codility.com/test/CL-EDTH48-3SM
+13. https://app.codility.com/test/CL-GVXHH5-8BS
+14. https://app.codility.com/test/CL-UVC7UC-CKX
+15. https://app.codility.com/test/CL-629EGW-GWS
