@@ -23,14 +23,16 @@ Here are some resources to explore before the workshop:
 
 # Workshop Materials
 
-* <a href="https://drive.google.com/file/d/1WFqf5Gq5T7S_e-vKp_Nkzdy9MDanYYqf/view?usp=sharing">Here are the slides from Day One of the workshop.</a>
+* <a href="https://drive.google.com/file/d/1WFqf5Gq5T7S_e-vKp_Nkzdy9MDanYYqf/view?usp=sharing">Slides from Day One of the workshop</a>
+
+* <a href="https://drive.google.com/file/d/1WFqf5Gq5T7S_e-vKp_Nkzdy9MDanYYqf/view?usp=sharing">Slides from Day Two of the workshop</a>
 
 
 # Survey
 
-* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete this survey BEFORE attending the workshop.</a>  (This was also emailed to you on Friday 7/19)
+* <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete this survey BEFORE attending the workshop.</a>
 
-* <a href="https://docs.google.com/forms/d/1tVhnk9vuQn8HwcDaqzNcy3GLReqO7lpybZdPMfuZmrI/edit?usp=sharing">Please complete this survey AFTER attending the workshop.</a>
+* <a href="https://forms.gle/Gg9MajoFwkHci6176">Please complete this survey AFTER attending the workshop.</a>
 
 
 # What's Next?
