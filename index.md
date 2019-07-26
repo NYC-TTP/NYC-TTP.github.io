@@ -42,3 +42,11 @@ Here are some resources to explore before the workshop:
 * <a href="https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc">How to Ace the Coding Interview, Every Time </a>
 
 * <a href="https://www.pluralsight.com/blog/career/5-ways-practice-coding-interview">More Ways to Practice for Coding Interview Questions</a>
+
+
+# Digital Whiteboard Links
+1. https://app.codility.com/test/CL-8VPC5D-GZ2
+2. https://app.codility.com/test/CL-EHMZ35-477
+3. https://app.codility.com/test/CL-XJZ2SZ-5R4
+4. https://app.codility.com/test/CL-GHQUXU-WF6
+5. https://app.codility.com/test/CL-EKUUC7-837
