@@ -45,18 +45,19 @@ Here are some resources to explore before the workshop:
 
 
 # Digital Whiteboard Links
-1. https://app.codility.com/test/CL-8VPC5D-GZ2
-2. https://app.codility.com/test/CL-EHMZ35-477
-3. https://app.codility.com/test/CL-XJZ2SZ-5R4
-4. https://app.codility.com/test/CL-GHQUXU-WF6
-5. https://app.codility.com/test/CL-EKUUC7-837
-6. https://app.codility.com/test/CL-MZ4DAT-8RC
-7. https://app.codility.com/test/CL-4XX263-895
-8. https://app.codility.com/test/CL-NN76FN-M55
-9. https://app.codility.com/test/CL-GX9END-YTG
-10. https://app.codility.com/test/CL-T6VDMA-XR6
-11. https://app.codility.com/test/CL-P7H54X-SV6
-12. https://app.codility.com/test/CL-EDTH48-3SM
-13. https://app.codility.com/test/CL-GVXHH5-8BS
-14. https://app.codility.com/test/CL-UVC7UC-CKX
-15. https://app.codility.com/test/CL-629EGW-GWS
+1. https://app.codility.com/test/CL-59F57P-KDQ/
+2. https://app.codility.com/test/CL-M43WJA-GE6/
+3. https://app.codility.com/test/CL-BBBUSD-6QY/
+4. https://app.codility.com/test/CL-8FHP7A-X3E/
+5. https://app.codility.com/test/CL-H9T8KC-UEF/
+6. https://app.codility.com/test/CL-8Q3CWG-PRY/
+7. https://app.codility.com/test/CL-VE83KZ-E84/
+8. https://app.codility.com/test/CL-3BCMEA-9A7/
+9. https://app.codility.com/test/CL-9EZTZV-6RT/
+10. https://app.codility.com/test/CL-U9K9UH-HN7/
+11. https://app.codility.com/test/CL-MHGTE5-GX9/
+12. https://app.codility.com/test/CL-P6EWWN-U6E/
+13. https://app.codility.com/test/CL-MZNZQU-FEX/
+14. https://app.codility.com/test/CL-22FXFW-9H2/
+15. https://app.codility.com/test/CL-WFSPQ6-WWJ/
+
