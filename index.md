@@ -23,7 +23,7 @@ Here are some resources to explore before the workshop:
 
 # Workshop Materials
 
-* <a href="https://drive.google.com/file/d/1WFqf5Gq5T7S_e-vKp_Nkzdy9MDanYYqf/view?usp=sharing">Slides from Day One of the workshop</a>
+* <a href="https://drive.google.com/file/d/122qI05sYZIi6pVrR2nAUMAk3uM6bOIhj/view?usp=sharing">Slides from Day One of the workshop</a>
 
 * <a href="https://drive.google.com/file/d/1eluaMP_pdZEOHHztxu2FnjKOms9p7wVc/view?usp=sharing">Slides from Day Two of the workshop</a>
 
