@@ -32,12 +32,12 @@ Here are some resources to explore before the workshop:
 
 * <a href="https://docs.google.com/forms/d/1tbpk3ea93bua-zKpCUCHQYk-CmaPkXvDzpGvbP1NqG0/edit?usp=sharing">Please complete this survey BEFORE attending the workshop.</a>
 
-* <a href="https://forms.gle/Gg9MajoFwkHci6176">Please complete this survey AFTER attending the workshop.</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN9l-zn3Oo3Unng1KZJYnh-PQMPX7-3sndVyixwAJy8tQMMw/viewform">Please complete this survey AFTER attending the workshop.</a>
 
 
 # What's Next?
 
-* A link for you to re-take the TTP Assessment will be emailed to you on <b>Tuesday 7/30</b> and will be <b>due by Sunday 8/4 (11:59pm)</b>.
+* A link for you to re-take the TTP Assessment will be emailed to you on <b>Tuesday 8/6</b> and will be <b>due by Sunday 8/11 (11:59pm)</b>.
 
 * <a href="https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc">How to Ace the Coding Interview, Every Time </a>
 
