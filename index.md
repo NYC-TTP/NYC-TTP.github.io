@@ -45,24 +45,26 @@ Here are some resources to explore before the workshop:
 
 
 # Digital Whiteboard Links
-1. https://app.codility.com/test/CL-59F57P-KDQ/
-2. https://app.codility.com/test/CL-M43WJA-GE6/
-3. https://app.codility.com/test/CL-BBBUSD-6QY/
-4. https://app.codility.com/test/CL-8FHP7A-X3E/
-5. https://app.codility.com/test/CL-H9T8KC-UEF/
-6. https://app.codility.com/test/CL-8Q3CWG-PRY/
-7. https://app.codility.com/test/CL-VE83KZ-E84/
-8. https://app.codility.com/test/CL-3BCMEA-9A7/
-9. https://app.codility.com/test/CL-9EZTZV-6RT/
-10. https://app.codility.com/test/CL-U9K9UH-HN7/
-11. https://app.codility.com/test/CL-MHGTE5-GX9/
-12. https://app.codility.com/test/CL-P6EWWN-U6E/
-13. https://app.codility.com/test/CL-MZNZQU-FEX/
-14. https://app.codility.com/test/CL-22FXFW-9H2/
-15. https://app.codility.com/test/CL-WFSPQ6-WWJ/
-16. https://app.codility.com/test/CL-5ADHH4-BTM/
-17. https://app.codility.com/test/CL-NKCSGQ-BG6/
-18. https://app.codility.com/test/CL-VJQY6D-6ZB/
-19. https://app.codility.com/test/CL-VA5U8X-RUU/
-20. https://app.codility.com/test/CL-TXRFW8-6FW/
+1. https://app.codility.com/test/CL-6PFDZK-FBS/
+2. https://app.codility.com/test/CL-6KVD27-PUM/
+3. https://app.codility.com/test/CL-3NC47J-RHA/
+4. https://app.codility.com/test/CL-XH35SH-UFX/
+5. https://app.codility.com/test/CL-UFZD4F-A9N/
+6. https://app.codility.com/test/CL-42NQPY-VX9/
+7. https://app.codility.com/test/CL-AZ8JRF-YH3/
+8. https://app.codility.com/test/CL-ENDJKA-GE5/
+9. https://app.codility.com/test/CL-MA4N8S-ENA/
+10. https://app.codility.com/test/CL-Q6M4KV-K8U/
+11. https://app.codility.com/test/CL-T5PJ3M-B7R/
+12. https://app.codility.com/test/CL-PM5X42-JJB/
+13. https://app.codility.com/test/CL-NZ9W53-ANK/
+14. https://app.codility.com/test/CL-8CXEMX-ZR4/
+15. https://app.codility.com/test/CL-VKMERR-U5S/
+16. https://app.codility.com/test/CL-4KJDQF-S9M/
+17. https://app.codility.com/test/CL-AENQXV-N5T/
+18. https://app.codility.com/test/CL-CNBFVE-ZJM/
+19. https://app.codility.com/test/CL-UJ6GC8-8YW/
+20. https://app.codility.com/test/CL-NCKNCS-WEA/
+21. https://app.codility.com/test/CL-K4SKW6-S4W/
+
 
